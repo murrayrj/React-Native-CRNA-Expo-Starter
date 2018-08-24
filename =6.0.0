@@ -1,0 +1,29 @@
+yarn add v1.7.0
+[1/5] Resolving packages...
+[2/5] Fetching packages...
+info @expo/ngrok-bin-darwin-ia32@2.2.8: The CPU architecture "x64" is incompatible with this module.
+info "@expo/ngrok-bin-darwin-ia32@2.2.8" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-freebsd-ia32@2.2.8: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-freebsd-ia32@2.2.8" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-freebsd-ia32@2.2.8: The CPU architecture "x64" is incompatible with this module.
+info @expo/ngrok-bin-freebsd-x64@2.2.8: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-freebsd-x64@2.2.8" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-linux-arm@2.2.8: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-linux-arm@2.2.8" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-linux-arm@2.2.8: The CPU architecture "x64" is incompatible with this module.
+info @expo/ngrok-bin-linux-arm64@2.2.8: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-linux-arm64@2.2.8" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-linux-arm64@2.2.8: The CPU architecture "x64" is incompatible with this module.
+info @expo/ngrok-bin-linux-ia32@2.2.8: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-linux-ia32@2.2.8" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-linux-ia32@2.2.8: The CPU architecture "x64" is incompatible with this module.
+info @expo/ngrok-bin-linux-x64@2.2.8: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-linux-x64@2.2.8" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-sunos-x64@2.2.8: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-sunos-x64@2.2.8" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-win32-ia32@2.2.8-beta.1: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-win32-ia32@2.2.8-beta.1" is an optional dependency and failed compatibility check. Excluding it from installation.
+info @expo/ngrok-bin-win32-ia32@2.2.8-beta.1: The CPU architecture "x64" is incompatible with this module.
+info @expo/ngrok-bin-win32-x64@2.2.8-beta.1: The platform "darwin" is incompatible with this module.
+info "@expo/ngrok-bin-win32-x64@2.2.8-beta.1" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/5] Linking dependencies...

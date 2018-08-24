@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "SwipeHunt for Product Hunt",
+    "icon" : "./img/icon2.png",
+    "version": "0.0.2",
+    "slug": "hunty-ph",
+    "sdkVersion": "26.0.0",
+    "ios": {
+      "bundleIdentifier": "com.devanco.hunty"
+    },
+    "android": {
+      "package": "com.devanco.hunty"
+    },
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "androidStatusBarColor": "#da552f",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#da552f"
+    }
+  }
+}
